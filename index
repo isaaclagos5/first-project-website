@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<h1>Is Destiny 2 DLC Even Good?</h1>
+	<head>
+		<!-- I am going to take out the heading 4 once i learn css-->
+		<h4><p>Although we were cucked into thinking that this game was going to be the best game for the next 10 years, we have learned since that this was not the case.
+		I have to admit that I did sink more than 100 hours into the game, it was still dissapointing the entire time that came with smaks to the face around every corner. I just wanted to know from all of you personally whether or not you found this game and it's DLC to be worth it. (we probably all know the answer) </p></h4>
+	</head>
+			<!-- if you can try and make a simple animation for when the buttons are clicked or actually make this a website and have it submit and bank data for it to display on a new web page or collect it to display it at the end of the poll-->
+			<body>
+		<h2>A Quick Poll</h2><br>
+				
+			<button onclick="myFunction()"required>It Sucks</button>or<button onclick="myFunction()"required>It Sucks</button><!--Try to make the other button name "its good" and make it display wrong it sucks-->
+				
+			<br><p id="it-sucks"><br>
+				
+				<script>
+function myFunction() {
+    document.getElementById("it-sucks").innerHTML = "It Does...it really does.";
+}			</script>
+
+</script>
+	
+	<h2>Has Destiny 2 DLC added anything new? Here we reveal the hidden truth.</h2>
+	<p>For the most part people have seen that here is indeen new enymy tpes. As for completely new enemies, there are none. It seems as though they have added some of the same enemies, but have just changed around their abilities and made them look slightly different than before. I for one am not buying it. They might be able to fool the masses with this one, but not me.</p>
+	<p>I am not sure as to why they have done this (probably because of $), but I know for a fact that it is not worth the extra $60 price tag. Which does not even include the additional multiplay/Crucible activities that we should get for free and not have to buy season passes for(add another $20 on top of the DLC pricetag). </p>
+	<h2>The death we never asked for, nor did the story need.</h2>
+	<p>So among the reveal trailer for Destiny 2's DLC "Forsaken" we find out that Cyade-6, the most beloved Destiny character dies by the "later to be found as bullshit death" hand of Uldren. I mean...what? This asshole kills the famed worrior Cyade-6??? I think we can all agree that he should have been given at the very least a worriors death. Not the unarmed shot to the chest, half-ass death he had. </p>
+	<p>The Point...there is none. I dont know what compelled the Destiny team to decide that it would be a good idea to give Cyade a death in this game. No one wanted it and there really is no point. Some say it was to engage the viewers I say it is because no one plays their game anymore. They are still trying to squeeze money out of every player that they still have before Destiny's "10 year plan" falls flat on its face because they have not given their fans the content they were promised and that they deserve after all the hours and boats of money some still sink into this game. All just so that they can get the smallest ammount of content that Destiny is willing to give.</p>
+	<h2>The short,but bittersweet truth.</h2>
+	<p>I have to admit. I love the idea of theis game and i love the lore. However i do not love the exicution nor the b.s. microtransactions and the money grab that they have resorted to. When they first announced the game, I was stoked, among the early dissapointments of the xbox games coming out. I decided that hey, now here is a game that shows promise a game that will be one of the best games that I will play for a while. But as all games now a days. They dissapointed. BIG TIME! From all the shady decisions that impacted the game forever like firing the story writer after he finised the story to adding microtransactions. You have single handidly messed up your own game not only for you, but for the millions of people that wished this game would last 10 years. I do have to say that the new generation of gamers for one. Be it used to this new expensive gamming culture or the normilization of microtransactions, have ruined games like this for some other older and dedicated gamers. I fell like I speak for others when I say that, this new gaming culture has put a damper on gaming today. It just feels like the status quoe that all these developers and game publishers strive to reach. They settle for mediocrity and hope for money. Thats how it feels at least with microtransations in almost every single game that continues to be released. I for one beleive that Destiny is proof of this. I for one can not just sit here and bash on them like I am biased. I will admit that I did enjoy what i could in both games and some of the DLC I was willing to buy. I had my fun with friends like a good game should provide. However for many the bad just simply outweighs the god. And for that many have stopped playing it </p>
+	
+	<!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24IaLNkjfdtvR8GKKwS7mFe1"+"&opts=16862&num=10&ts=1536568121379");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
+	<!--			<button onclick="myFunction()">Click me</button>
+
+<p id="demo"></p>
+
+<p>A function is triggered when the button is clicked. The function outputs some text in a p element with id="demo".</p>
+
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = "It does...it really does.";
+}
+</script>-->
+		</body>
+	</head>
+</html>
